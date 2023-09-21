@@ -1,10 +1,9 @@
-C. Target Practice
-time limit per test1 second
-memory limit per test256 megabytes
-inputstandard input
-outputstandard output
-A 10×10
- target is made out of five "rings" as shown. Each ring has a different point value: the outermost ring — 1 point, the next ring — 2 points, ..., the center ring — 5 points.
+                                                            C. Target Practice
+                                                            time limit per test1 second
+                                                            memory limit per test256 megabytes
+                                                            inputstandard input
+                                                            outputstandard output
+A 10×10 target is made out of five "rings" as shown. Each ring has a different point value: the outermost ring — 1 point, the next ring — 2 points, ..., the center ring — 5 points.
 
 https://espresso.codeforces.com/5c51151adbfdd4a0384d7616d0dc23fe1a212550.png
 
